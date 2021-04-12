@@ -838,11 +838,11 @@ li {
     bottom: -14vh; } }
 @media (min-height: 4000px) {
   .help:before {
-    height: 4vh;
-    top: -4vh; }
+    height: 1vh;
+    top: -1vh; }
   .help:after {
-    height: 4vh;
-    bottom: -4vh; } }
+    height: 1vh;
+    bottom: -1vh; } }
 .slick-dots {
   text-align: center; }
   .slick-dots li {

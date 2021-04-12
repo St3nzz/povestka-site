@@ -836,13 +836,6 @@ li {
   .help:after {
     height: 14vh;
     bottom: -14vh; } }
-@media (min-height: 4000px) {
-  .help:before {
-    height: 100px;
-    top: -100px; }
-  .help:after {
-    height: 100px;
-    bottom: -100px; } }
 .slick-dots {
   text-align: center; }
   .slick-dots li {
